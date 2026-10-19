@@ -22,4 +22,4 @@ main = do
   let message = "Hello World"
     encrypted = encrypt 3 message
   putStrLn encrypt
-  putStrLn (decrypt 3 encrypted)
+  putStrLn ()
